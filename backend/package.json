@@ -1,0 +1,21 @@
+{
+  "name": "authentication-exercise-backend",
+  "version": "1.0.0",
+  "description": "Express-Backend for authentication exercise",
+  "main": "dist/index.ts",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tim-Haboldt/Authentication-Exercise.git"
+  },
+  "author": "Tim Haboldt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node": "^17.7.2",
+    "typescript": "^4.6.3"
+  }
+}

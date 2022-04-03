@@ -1,0 +1,15 @@
+{
+  "name": "authentication-exercise",
+  "version": "1.0.0",
+  "description": "Authentication exercise",
+  "private": true,
+  "author": "Tim Haboldt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tim-Haboldt/Authentication-Exercise/issues"
+  },
+  "homepage": "https://github.com/Tim-Haboldt/Authentication-Exercise#readme",
+  "dependencies": {
+    "prettier": "^2.6.2"
+  }
+}
