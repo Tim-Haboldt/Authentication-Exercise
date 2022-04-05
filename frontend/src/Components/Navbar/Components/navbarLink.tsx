@@ -8,7 +8,7 @@ function NavbarLink({ className, ...props }: NavbarLinkProps) {
     return (
         <Box>
             <Link
-                className={`border-2 rounded-xl border-orange-300 flex mx-2 px-2.5 bg-orange-300 text-orange-900 text-lg ${className}`}
+                className={`flex mx-3 px-2.5 text-orange-900 text-lg ${className}`}
                 {...props}
             />
         </Box>
