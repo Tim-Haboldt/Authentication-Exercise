@@ -1,12 +1,11 @@
 import React from "react"
+import Page from "../../Components/Page/page"
 
 const LoginPage = () => {
     return (
-        <div>
-            <p>
-                Hello
-            </p>
-        </div>
+        <Page>
+            <p>Hello</p>
+        </Page>
     )
 }
 

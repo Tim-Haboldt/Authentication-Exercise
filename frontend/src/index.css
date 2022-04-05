@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Anek Tamil";
+    src: url(https://fonts.googleapis.com/css2?family=Anek+Tamil:wdth,wght@97.9,576;100,400&display=swap);
+}

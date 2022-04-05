@@ -1,11 +1,11 @@
 import React from "react"
 import Page from "../../Components/Page/page";
 
-const IndexPage = () => {
+const HelpPage = () => {
     return (
         <Page>
         </Page>
     )
 }
 
-export default IndexPage
+export default HelpPage
